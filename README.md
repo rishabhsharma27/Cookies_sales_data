@@ -1,0 +1,1 @@
+Cookies sales data dashboard
